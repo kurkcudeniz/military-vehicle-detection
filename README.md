@@ -17,8 +17,11 @@ An AI-powered military vehicle detection system using YOLOv8, trained on satelli
 ## Sample Results
 
 <p align="center">
-  <img src="results/sample_aircraft.jpg" width="400"/>
-  <img src="results/sample_tank.jpg" width="400"/>
+  <img src="results/tank.jpg" width="400"/>
+  <img src="results/helicopter.jpg" width="400"/>
+</p>
+<p align="center">
+  <img src="results/apc.jpg" width="400"/>
 </p>
 
 ## Tech Stack
